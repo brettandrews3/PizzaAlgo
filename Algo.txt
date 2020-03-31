@@ -6,3 +6,6 @@ Place your order
 Submit your form of payment
 Wait for delivery
 Pay that man his money
+If pizza is wrong:
+    a. Pout a little bit
+    b. Return to step 4
