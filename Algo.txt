@@ -1,0 +1,7 @@
+Choose a pizza place
+Review their menu
+Select your pizza toppings
+Call the pizza place
+Place your order
+Submit your form of payment
+Wait for delivery
